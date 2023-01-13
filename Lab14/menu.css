@@ -1,0 +1,22 @@
+.head{padding: 0.5em;
+    color: brown;
+    border-style: groove;
+    border-color: chocolate;
+    border-radius: 10%;
+    max-width: fit-content;
+    margin: 2em auto;
+    background-color: beige;}
+a{
+    padding: 0.5em 40%;
+    color: brown;
+    border-style: groove;
+    border-color: chocolate;
+    border-radius: 10%;
+    background-color: beige;
+    font-size: xx-large;
+    text-decoration: none;
+    line-height: 2em;
+}
+body{
+    background-color: palevioletred;
+}

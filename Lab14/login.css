@@ -1,0 +1,24 @@
+.head{padding: 0.5em;
+    color: brown;
+    border-style: groove;
+    border-color: chocolate;
+    border-radius: 10%;
+    max-width: fit-content;
+    margin: 2em auto;
+    background-color: beige;}
+.form{margin: 0 auto;
+    border-style: solid;
+    max-width: fit-content;
+    padding: 7em;
+    border-radius: 20%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: dimgray;
+    color: lightgoldenrodyellow;
+    font-weight: bold;}
+input[type=submit]{margin-left: 35%;
+    background-color: beige;
+    border-color: chocolate;
+    border-radius: 20%;
+    padding: 1em 2em 1em 2em;}
+input[type=text]{float: right;}
+.background{background-color: lightblue;}
